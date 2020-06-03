@@ -62,7 +62,7 @@ public class NumberConversion {
         if(convertedNumber > 0) {
             System.out.println("Number " + number + " converted is: " + convertedNumber);
         } else {
-            System.out.println("Number " + number + " is negative, contains all figure (0-9) or too big and is NOT converted");
+            System.out.println("Number " + number + " is negative, contains all figure (0-9) or is too big and is NOT converted");
         }
     }
 }
